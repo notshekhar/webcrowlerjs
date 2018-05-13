@@ -63,5 +63,6 @@ function webspider(url){
   res.send();
 
 }
-webspider("http://127.0.0.1:8887/flurr");
-webspider("http://127.0.0.1:8887/tensor/TensorFlow.js.html?static=1");
+webspider("https://notshekhar.github.io/note");
+webspider("https://notshekhar.github.io/flur-web");
+webspider("https://www.gihub.com/notshekhar");
