@@ -65,4 +65,4 @@ function webspider(url){
 }
 webspider("https://notshekhar.github.io/note");
 webspider("https://notshekhar.github.io/flur-web");
-webspider("https://www.gihub.com/notshekhar");
+webspider("https://www.github.com/notshekhar");
